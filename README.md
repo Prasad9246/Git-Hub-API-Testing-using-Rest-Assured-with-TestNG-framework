@@ -13,7 +13,7 @@ This repository contains automated tests for GitHub's API using Rest Assured wit
 
 ## Getting Started 
 
-### Prerequisites
+### Prerequisites 
 
 - Java Development Kit (JDK)
 - Apache Maven
