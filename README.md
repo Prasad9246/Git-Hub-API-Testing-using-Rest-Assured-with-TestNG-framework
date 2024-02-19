@@ -11,7 +11,7 @@ This repository contains automated tests for GitHub's API using Rest Assured wit
 - **Assertions**: Includes custom assertions to validate API responses and behaviors.
 - **Logging**: Implements logging functionality to provide detailed information about test execution and results.
 
-## Getting Started
+## Getting Started 
 
 ### Prerequisites
 
